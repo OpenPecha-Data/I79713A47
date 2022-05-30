@@ -1,0 +1,42 @@
+id: I79713A47
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:41:26.729916'
+last_modified: '2022-05-30T20:41:26.729921'
+parser: null
+source_metadata:
+  title: Fifth Dzogchen Rinpoche
+  language: bo
+  description: 'Texts by and about the Fifth Dzogchen Rinpoche, Thupten Chökyi Dorje
+    (rdzogs chen thub bstan chos kyi rdo rje, 1872–1935):'
+  volume:
+    f0EED:
+      title: Brief Offering Prayer to Durtrö Lhamo, Mistress of the Charnel Ground
+      base_file: f0EED.txt
+      order: 1
+      parent: Dharma Protectors
+    fBA3B:
+      title: Brief Protectors Practice
+      base_file: fBA3B.txt
+      order: 2
+      parent: Dharma Protectors
+    f5D9B:
+      title: Fulfilment Offering for Nyangrel Nyima Özer's Treasure Practice of Black
+        Hayagrīva with an Iron Sword
+      base_file: f5D9B.txt
+      order: 3
+      parent: Hayagrīva
+    f8263:
+      title: 'The Swift Fulfilment of Wishes: A Prayer for the Swift Return of the
+        Supreme Tulku of the Fifth Drubwang Dzogchen Rinpoche'
+      base_file: f8263.txt
+      order: 4
+      parent: Swift Rebirth Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
